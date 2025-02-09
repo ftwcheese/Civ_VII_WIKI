@@ -373,6 +373,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sprites_leader_label_reference:
     m_LabelString: sprites_leader
+  leader_images_width: 100
+  leader_images_height: 100
 --- !u!4 &1110571918
 Transform:
   m_ObjectHideFlags: 0
