@@ -6,8 +6,8 @@
                 "Expansionist"
             ],
             "bonuses": [
-                ".+1 Food in cities for every five excess Happiness",
-                ".+10 Food in all settlements during a celebration",
+                "+1 Food in cities for every five excess Happiness",
+                "+10 Food in all settlements during a celebration",
                 "All buildings gain +1 happiness adjacency bonus for all improvements"
             ]
         },
@@ -17,9 +17,9 @@
                 "Militaristic"
             ],
             "bonuses": [
-                ".+1 resource capacity in cities",
-                ".+1 Gold per age for each resource assigned to cities",
-                ".+5 combat strength on all units in plains and deserts"
+                "+1 resource capacity in cities",
+                "+1 Gold per age for each resource assigned to cities",
+                "+5 combat strength on all units in plains and deserts"
             ]
         },
         "Augustus": {
@@ -28,9 +28,9 @@
                 "Expansionist"
             ],
             "bonuses": [
-                ".+2 Production in the capital for every town",
+                "+2 Production in the capital for every town",
                 "Can purchase Culture buildings",
-                ".+50 percent Gold toward purchasing buildings in towns"
+                "+50 percent Gold toward purchasing buildings in towns"
             ]
         },
         "Ahsoka, World Conqueror": {
@@ -39,8 +39,8 @@
                 "Militaristic"
             ],
             "bonuses": [
-                ".+1 Production for every five excess Happiness in cities",
-                ".+10 percent Production in settlements not founded by you",
+                "+1 Production for every five excess Happiness in cities",
+                "+10 percent Production in settlements not founded by you",
                 "Declaring a formal war automatically starts a celebration and grants +10 combat strength for all units while the celebration lasts"
             ]
         },
@@ -50,9 +50,9 @@
                 "Scientific"
             ],
             "bonuses": [
-                ".+1 Science per age on Production buildings in cities",
-                ".+50 percent Production toward constructing Production buildings",
-                ".+1 Science per age from active endeavors you start or support. Franklin can also have two endeavors of the same type active at once with different leaders"
+                "+1 Science per age on Production buildings in cities",
+                "+50 percent Production toward constructing Production buildings",
+                "+1 Science per age from active endeavors you start or support. Franklin can also have two endeavors of the same type active at once with different leaders"
             ]
         },
         "Catherine the Great": {
@@ -61,7 +61,7 @@
                 "Scientific"
             ],
             "bonuses": [
-                ".+2 Culture per age on displayed Great Works",
+                "+2 Culture per age on displayed Great Works",
                 "Buildings with Great Work slots gain an additional slot",
                 "Cities settled in tundra tiles gain science equal to 25 percent of their culture per turn"
             ]
@@ -74,7 +74,7 @@
             "bonuses": [
                 "Military and Science buildings receive a happiness adjacency bonus for quarters (urban tiles with two buildings)",
                 "During a celebration, gains two free cavalry units, if cavalry units are unlocked",
-                ".+5 combat strength for cavalry units during a celebration"
+                "+5 combat strength for cavalry units during a celebration"
             ]
         },
         "Confucius": {
@@ -83,8 +83,8 @@
                 "Scientific"
             ],
             "bonuses": [
-                ".+25 percent growth rate in cities",
-                ".+2 Science from specialists"
+                "+25 percent growth rate in cities",
+                "+2 Science from specialists"
             ]
         },
         "Friedrich, Baroque": {
@@ -113,7 +113,7 @@
                 "Militaristic"
             ],
             "bonuses": [
-                ".+100 percent Influence toward initiating espionage actions",
+                "+100 percent Influence toward initiating espionage actions",
                 "Gain five war support on all wars declared against you",
                 "Units ignore movement penalties from vegetation"
             ]
@@ -124,8 +124,8 @@
                 "Economic"
             ],
             "bonuses": [
-                ".+1 Culture for every imported resource",
-                ".+15 percent Production toward constructing buildings and wonders in cities adjacent to navigable rivers"
+                "+1 Culture for every imported resource",
+                "+15 percent Production toward constructing buildings and wonders in cities adjacent to navigable rivers"
             ]
         },
         "Himiko, High Shaman": {
@@ -134,9 +134,9 @@
                 "Diplomatic"
             ],
             "bonuses": [
-                ".+2 Happiness per age on Happiness buildings",
-                ".+50 percent Production toward constructing Happiness buildings",
-                ".+20 percent Culture but -10 percent Science; both effects double during celebrations"
+                "+2 Happiness per age on Happiness buildings",
+                "+50 percent Production toward constructing Happiness buildings",
+                "+20 percent Culture but -10 percent Science; both effects double during celebrations"
             ]
         },
         "Himiko, Queen of Wa": {
@@ -146,7 +146,7 @@
             ],
             "bonuses": [
                 "Has the unique Friend of Wei endeavor that becomes available when allied with another civilization; Friend of Wei grants Himiko and her ally +25 percent science",
-                ".+4 science per age for every leader you are friendly or helpful with",
+                "+4 science per age for every leader you are friendly or helpful with",
                 "Can support endeavors for free"
             ]
         },
@@ -157,7 +157,7 @@
             ],
             "bonuses": [
                 "Gains two wildcard attributes after the first civic in every age",
-                ".+1 sight for all units",
+                "+1 sight for all units",
                 "Has the unique endeavor Trade Maps that lets you see other leaders\u2019 explored regions"
             ]
         },
@@ -168,8 +168,8 @@
             ],
             "bonuses": [
                 "Gains 300 Gold every time you discover a natural wonder, and 600 gold if the wonder is in distant lands",
-                ".+100 percent tile yields from natural wonders",
-                ".+50 percent Gold toward purchasing naval units",
+                "+100 percent tile yields from natural wonders",
+                "+50 percent Gold toward purchasing naval units",
                 ".-1 Gold maintenance cost for naval units"
             ]
         },
@@ -180,8 +180,8 @@
             ],
             "bonuses": [
                 "When gaining rewards from a narrative event, gain an additional 20 Culture and 20 Gold per age. Rizal also has additional narrative events compared to most leaders",
-                ".+50 percent celebration duration",
-                ".+50 percent Happiness toward celebrations"
+                "+50 percent celebration duration",
+                "+50 percent Happiness toward celebrations"
             ]
         },
         "Lafayette": {
@@ -191,8 +191,8 @@
             ],
             "bonuses": [
                 "Gains the Reform endeavor, which adds an extra social policy slot, and supporting the endeavor grants the other leader an extra policy slot",
-                ".+1 combat strength for every tradition, but not policy, slotted in government",
-                ".+2 culture and happiness per age in settlements, and +4 in distant lands"
+                "+1 combat strength for every tradition, but not policy, slotted in government",
+                "+2 culture and happiness per age in settlements, and +4 in distant lands"
             ]
         },
         "Machiavelli": {
@@ -201,7 +201,7 @@
                 "Economic"
             ],
             "bonuses": [
-                ".+3 Influence per age",
+                "+3 Influence per age",
                 "Gains 50 Gold per age when diplomatic action proposals are accepted or 100 Gold when they\u2019re rejected",
                 "Ignores relationship requirements for declaring formal wars",
                 "Can levy troops from city-states even when you aren\u2019t their suzerain"
@@ -214,7 +214,7 @@
             ],
             "bonuses": [
                 "Has the Continental System sanction that reduces trade route limits of the target by one, which causes massive relationship penalties and costs more to reject",
-                ".+8 Gold per age for every leader you are unfriendly or hostile with",
+                "+8 Gold per age for every leader you are unfriendly or hostile with",
                 "Can reject endeavors for free"
             ]
         },
@@ -224,7 +224,7 @@
                 "Cultural"
             ],
             "bonuses": [
-                ".+1 movement for all land units",
+                "+1 movement for all land units",
                 "Defeating an enemy unit provides culture equal to 50 percent of that unit\u2019s combat strength"
             ]
         },
@@ -245,8 +245,8 @@
             ],
             "bonuses": [
                 "Gain three free levels on your first army commander",
-                ".+20 percent commander experience",
-                ".+10 percent science in cities on tropical tiles, and the effect doubles when you declare a formal war"
+                "+20 percent commander experience",
+                "+10 percent science in cities on tropical tiles, and the effect doubles when you declare a formal war"
             ]
         },
         "Tecumseh": {
@@ -255,8 +255,8 @@
                 "Diplomatic"
             ],
             "bonuses": [
-                ".+1 Food and Production per age in settlements for every city-state you are suzerain of",
-                ".+1 combat strength for all units for every city-state you are suzerain of"
+                "+1 Food and Production per age in settlements for every city-state you are suzerain of",
+                "+1 combat strength for all units for every city-state you are suzerain of"
             ]
         },
         "Xerxes King of Kings": {
@@ -265,10 +265,10 @@
                 "Militaristic"
             ],
             "bonuses": [
-                ".+3 combat strength for units that are attacking in neutral or enemy territory",
+                "+3 combat strength for units that are attacking in neutral or enemy territory",
                 "Gain 100 Culture and Gold per age when you capture a settlement for the first time",
-                ".+10 percent gold in all settlements, which doubles in settlements you didn\u2019t found yourself",
-                ".+1 settlement limit per age"
+                "+10 percent gold in all settlements, which doubles in settlements you didn\u2019t found yourself",
+                "+1 settlement limit per age"
             ]
         },
         "Xerxes the Achaemenid": {
@@ -277,9 +277,9 @@
                 "Economic"
             ],
             "bonuses": [
-                ".+1 trade route limit with all other leaders",
+                "+1 trade route limit with all other leaders",
                 "Gain 50 culture and 100 gold per age when you create a trade route or road",
-                ".+1 culture and gold per age on unique buildings and improvements"
+                "+1 culture and gold per age on unique buildings and improvements"
             ]
         }
     }
